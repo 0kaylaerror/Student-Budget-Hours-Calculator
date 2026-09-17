@@ -6,7 +6,7 @@ Project 1: Create an algorithm that outputs the number of hours required for the
 IncomeMetric:(Hourly Wage)
 Monthly Expenses: Renting/Housing, Internet/PhonePlan, Groceries, and Leisure Allowance
 
-#Output
+#Output 
 WeeklyHours: Total number of hours calculated to work weekly to cover monthly expenses (break-even)
 SavingThreshold: Total number of hours calculated to save $100 a month and cover monthly expenses
 
